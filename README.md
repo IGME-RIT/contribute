@@ -1,3 +1,3 @@
-# Contribute to the IGME Tutorial Project
+# Contribute to ATLAS
 
 Details pending
