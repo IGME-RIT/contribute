@@ -1,12 +1,12 @@
-series: Example Series
+series: Example Series  # name and series form a unique identifier for your example
 title: Example Project
 author:
   name: David Erbelding
   email: daviderbelding@gmail.com
   github: github.com/Erbelding
 description: This is an example project! 
-language: C++
-tags:
+language: C++ #Only C++ currently supported.
+tags: #These are the available tags, remove any that don't apply to your example.
   - AI
   - Audio
   - Computer Science
@@ -21,8 +21,8 @@ tags:
   - Software Engineering
 extra_resources:
   - link: https://github.com/IGME-RIT/contribute
-    title: Example Project Link
-connections:
+    title: Example Project Link Name
+connections:  # These reference other projects and connect them in the graph that atlas renders.
   - series: Example Series
     title: Example Previous Project
   - series: Example Series
