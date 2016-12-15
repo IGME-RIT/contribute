@@ -1,0 +1,29 @@
+series: Example Series
+title: Example Project
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: github.com/Erbelding
+description: This is an example project! 
+language: C++
+tags:
+  - AI
+  - Audio
+  - Computer Science
+  - Core
+  - Graphics
+  - Input
+  - Math
+  - Networking
+  - Optimization
+  - Physics
+  - Scripting
+  - Software Engineering
+extra_resources:
+  - link: https://github.com/IGME-RIT/contribute
+    title: Example Project Link
+connections:
+  - series: Example Series
+    title: Example Previous Project
+  - series: Example Series
+    title: Second Example Project
