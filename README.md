@@ -23,6 +23,7 @@ __All projects must have the following files in the root directory:__
 
 
 __C++ Projects__
+
 We use CMake for our build system to avoid distributing Visual Studio Files.
 Any new C++ projects should use a similar build system.
 An example project can be found in the baseProjects directory of this repository.
@@ -37,5 +38,6 @@ __If your project follows these general these general formatting guidelines:__
 
 
 __If there are no guidelines for the project you wish to submit:__
+
 We currently only have a standard for C++ examples, but we would love to have other examples on Atlas as well.
 Feel free to make an issue on this repository. Our maintainers are happy to help you find a good way to contribute your project.
