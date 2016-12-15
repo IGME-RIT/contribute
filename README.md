@@ -16,13 +16,10 @@ Please read our [Code of Conduct](https://github.com/IGME-RIT/contribute/blob/ma
 
 __All projects must have the following files in the root directory:__
 
--README.md: Must contain a helpful description of the project.
-
--LICENSE.md: We use GPL.
-
--igme_config.yml: Markup that we use to organize and track projects on the [Atlas front-end](http://igme-rit.github.io/).
-
--igme_thumbnail.png: An image to be used alongside the project on our front-end.
+ - README.md: Must contain a helpful description of the project.
+ - LICENSE.md: We use GPL.
+ - igme_config.yml: Markup that we use to organize and track projects on the [Atlas front-end](http://igme-rit.github.io/).
+ - igme_thumbnail.png: An image to be used alongside the project on our front-end.
 
 
 __C++ Projects__
@@ -33,13 +30,10 @@ An example project can be found in the baseProjects directory of this repository
 
 __If your project follows these general these general formatting guidelines:__
 
--A tutorial will be added to the contribute repository as a pull request to the root directory for triaging.
-
--An active maintainer will inspect the tutorial and either approve it, provide feedback, or reject the submission.
-
--An active maintainer may edit any files for use with the [Atlas front-end](http://igme-rit.github.io/).
-
--An active maintainer will break off the tutorial into its own repository under the IGME-RIT organization and remove the tutorial from the contribute repository.
+ - A tutorial will be added to the contribute repository as a pull request to the root directory for triaging.
+ - An active maintainer will inspect the tutorial and either approve it, provide feedback, or reject the submission.
+ - An active maintainer may edit any files for use with the [Atlas front-end](http://igme-rit.github.io/).
+ - An active maintainer will break off the tutorial into its own repository under the IGME-RIT organization and remove the tutorial from the contribute repository.
 
 
 __If there are no guidelines for the project you wish to submit:__
